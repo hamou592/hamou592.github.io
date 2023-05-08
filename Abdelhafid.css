@@ -10,6 +10,7 @@
     padding: 0;
     list-style: none;
     scroll-behavior: smooth;
+    font-family: 'Josefin Sans', sans-serif;
 }
 body {
   margin: 3rem 0 0 0;
